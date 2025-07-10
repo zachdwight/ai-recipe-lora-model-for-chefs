@@ -213,7 +213,7 @@ Generating recipe...
 
 Output Conclusion: 
 
-Obviously the model needs some fine tuning and more data as you'll notice the above generated recipe includes multiple tbsps of olive oil!  Note, I also edited the instructions generated output so it would look nice in readme.md as code puts it all on one line.  
+Obviously the model needs some fine tuning and more data as you'll notice the above generated recipe includes multiple tbsps of olive oil!  Including more Italian recipes in the training set would be a good start to tune this model.  Note, I also edited the instructions generated output so it would look nice in readme.md as code puts it all on one line.  
 
 ---
 ## Troubleshooting
