@@ -194,7 +194,7 @@ Generating recipe...
 - 1 tbsp dried basil
 - 4-6 fresh basil leaves
 
-**Instructions:**  //note I edited this section to make it look nice on GitHub
+**Instructions:** 
 - Cook pasta according to pack instructions.
 - Meanwhile, heat the garlic, oil, onions and vinegar in a saucepan.
 - Cook for 10-15 mins or until the onions are softened and fragrant.
@@ -208,7 +208,9 @@ Generating recipe...
 
 ```
 
-Output Conclusion: obviously the model needs some fine tuning and more data as you'll notice the above generated recipe includes multiple tbsps of olive oil!
+Output Conclusion: 
+
+Obviously the model needs some fine tuning and more data as you'll notice the above generated recipe includes multiple tbsps of olive oil!  Note, I also edited the instructions generated output so it would look nice in readme.md as code puts it all on one line.  
 
 ---
 ## Troubleshooting
