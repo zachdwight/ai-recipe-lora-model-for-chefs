@@ -97,7 +97,7 @@ Create a JSON file containing an array of recipe objects. Each recipe object **m
 
 ### Configure the Script
 
-Open the `finetune_recipe.py` script and modify the following variables in the "Configuration" section:
+Open the `recipe_training.py` script and modify the following variables in the "Configuration" section:
 
 * **`BASE_MODEL_ID`**: Replace `"prithivMLmods/Llama-Express.1-Tiny"` with the actual Hugging Face model ID you wish to fine-tune. Ensure you have access to the model (e.g., you might need to be logged into Hugging Face if it's a gated model).
     * Examples: `"meta-llama/Llama-2-7b-hf"`, `"mistralai/Mistral-7B-v0.1"`, `"google/gemma-2b"`
@@ -110,7 +110,7 @@ Open the `finetune_recipe.py` script and modify the following variables in the "
 Execute the script from your terminal:
 
 ```bash
-python your_script_name.py
+python recipe_training.py
 ```
 
 ---
