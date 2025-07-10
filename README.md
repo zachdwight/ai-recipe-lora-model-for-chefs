@@ -200,6 +200,9 @@ Generating recipe...
 
 ```
 
+Output Conclusion: obviously the model needs some fine tuning and more data as you'll notice the above generated recipe includes multiple tbsps of olive oil!
+
+---
 ## Troubleshooting
 
 * **Out of Memory (OOM) Errors:**
