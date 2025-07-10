@@ -1,6 +1,6 @@
 # LoRA Recipe Fine-tuning for AI Cooking Companion
 
-This script demonstrates how to fine-tune a Causal Language Model (CLM) using Low-Rank Adaptation (LoRA) with the `transformers`, `peft`, and `trl` libraries. The goal is to adapt a pre-trained model to generate detailed recipes based on provided instructions and input context.
+This script demonstrates how to fine-tune a Causal Language Model (CLM) using Low-Rank Adaptation (LoRA) with the `transformers`, `peft`, and `trl` libraries. The goal is to adapt a pre-trained model to generate detailed recipes based on provided instructions and input context.  Please note the secret_recipes.json includes very British + holiday leaning recipes!  Adjust as needed.
 
 ---
 
