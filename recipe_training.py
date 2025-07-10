@@ -1,13 +1,4 @@
 
-# python3.11 -m venv ~/venvs/recipe_env
-# source ~/venvs/recipe_env/bin/activate
-
-# pip install torch
-# pip install transformers==4.53.1
-# pip install bitsandbytes
-# pip install datasets
-# pip install peft
-# pip install trl
 
 import os
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
@@ -149,8 +140,7 @@ eval_dataset = train_val_split["test"]
 
 print(f"Train dataset size: {len(train_dataset)}")
 print(f"Eval dataset size: {len(eval_dataset)}")
-print("First example (formatted for training) in training dataset:")
-print(train_dataset[0][TEXT_FIELD])
+
 torch.cuda.empty_cache()
 # --- Step 4: Fine-tuning ---
 
