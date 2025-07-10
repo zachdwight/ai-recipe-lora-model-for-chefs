@@ -195,7 +195,15 @@ Generating recipe...
 - 4-6 fresh basil leaves
 
 **Instructions:**
-1. Cook pasta according to pack instructions. Meanwhile, heat the garlic, oil, onions and vinegar in a saucepan. Cook for 10-15 mins or until the onions are softened and fragrant. Add the tomato puree and simmer for 1 min more. Stir in the sunflower oil, oregano, basil, crushed garlic, and bay leaves. Season and cook for 2-3 mins. Drain the pasta and return to the pan, toss everything together. Add the safflower oil, vinegar, parsley and basil, season and cook for 1 min more. Serve with the pasta.
+Cook pasta according to pack instructions.
+Meanwhile, heat the garlic, oil, onions and vinegar in a saucepan.
+Cook for 10-15 mins or until the onions are softened and fragrant.
+Add the tomato puree and simmer for 1 min more.
+Stir in the sunflower oil, oregano, basil, crushed garlic, and bay leaves.
+Season and cook for 2-3 mins.
+Drain the pasta and return to the pan, toss everything together.
+Add the safflower oil, vinegar, parsley and basil, season and cook for 1 min more.
+Serve with the pasta.
 --- End Generated Recipe ---
 
 ```
